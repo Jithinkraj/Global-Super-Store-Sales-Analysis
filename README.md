@@ -5,7 +5,9 @@ As part of my Data Science and Machine Learning course at Entrí Elevate, I work
 The dataset consists of three main tables:
 
 Global Superstore - Orders: This table contains 24 columns and 51,290 rows.
+
 Global Superstore - People: This table contains 2 columns and 13 rows.
+
 Global Superstore - Returns: Details related to product returns, this table contains 3 columns and 1173 rows.
 
 Here’s how I approached the project:
